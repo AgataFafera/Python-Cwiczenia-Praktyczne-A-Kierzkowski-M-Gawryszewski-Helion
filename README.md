@@ -9,6 +9,7 @@ Napisz funkcję, która oblicza X^Y, gdzie X i Y są liczbami rzeczywistymi - ni
 
 ### 3.55 Obliczanie podatku
 Napisz funkcję obliczającą wartość rocznego podatku dochodowego od osób fizycznych w 2023* roku dla podanego dochodu (dochód i wartość typu _float_). Sprawdź jej działanie dla różnych wartości dochodu. Policz, ile podatku dochodowego w ciąfu roku wpłaca do budżetu osoba zarabiająca średnią krajową.
+<sub>* rok zmieniony </sub>
 
 ### 3.56 Fibonacci - rekurencyjnie
 Napisz funkcję, która oblicza N-ty wyraz ciągu Fibonacciego rekurencyjnie. (...) Sprawdź działanie obu funkcji dla różnych wartości.
