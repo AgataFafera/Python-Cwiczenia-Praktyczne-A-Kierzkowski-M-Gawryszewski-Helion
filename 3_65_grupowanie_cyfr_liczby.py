@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[61]:
-
-
 # Napisz funkcję, która dla podanej liczby typu całkowitego tworzy łańcus znakowy z tą liczbą, 
 # ale łatwiejszą do przeczytania - z trzycyfrowymi grupami cyfr oddzielnymi spacją 
 # (na przykład dla 1234567 wartością funkcji powinien być łańcuch: 1 234 567. 
