@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
 def fibonacci_rek(n):
   if n == 0: 
     return 0 
