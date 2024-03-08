@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
-
-
 xA = float(input("Podaj współrzędną x wierzchołka A trójkąta: "))
 yA = float(input("Podaj współrzędną y wierzchołka A trójkąta: "))
 xB = float(input("Podaj współrzędną x wierzchołka B trójkąta: "))
