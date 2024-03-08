@@ -25,9 +25,9 @@ def pole_trojkata(
 print(pole_trojkata(xA, yA, xB, yB, xC, yC))
 
 if (pole_trojkata(xA, yA, xB, yB, xC, yC)
-    == pole_trojkata(xA, yA, xD, yD, xC, yC)
-    + pole_trojkata(xA, yA, xD, yD, xB, yB)
-    + pole_trojkata(xC, yC, xD, yD, xB, yB)): 
+        == pole_trojkata(xA, yA, xD, yD, xC, yC)
+        + pole_trojkata(xA, yA, xD, yD, xB, yB)
+        + pole_trojkata(xC, yC, xD, yD, xB, yB)): 
   print(True)
 
 else: 
